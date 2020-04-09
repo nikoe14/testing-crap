@@ -6,3 +6,10 @@ huevos
 bananas
 harina
 azucar
+
+Pasos
+
+batir huevos
+pelar las bananas
+mezclar con la harina
+agregar el azucar
