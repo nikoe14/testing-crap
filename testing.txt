@@ -13,3 +13,4 @@ batir huevos
 pelar las bananas
 mezclar con la harina
 agregar el azucar
+Meter en el horno
